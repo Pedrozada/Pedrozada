@@ -1,0 +1,3 @@
+- 👋 Olá,meu nome é @Pedrozada
+- 👀 Estou interressado em aprender a programar novas linguagens. 
+- 🌱 Meu email de contato é pedro.scurupa@escola.pr.gov.br
